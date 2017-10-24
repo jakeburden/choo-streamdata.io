@@ -15,6 +15,6 @@
   "devDependencies": {
     "budo": "^10.0.4",
     "choo": "^6.5.1",
-    "choo-devtools": "^2.0.0",
+    "choo-devtools": "^2.0.0"
   }
 }
