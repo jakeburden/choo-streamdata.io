@@ -1,0 +1,20 @@
+{
+  "name": "choo-streamdata.io",
+  "version": "1.0.0",
+  "description": "small wrapper around streamdata.io-events and choo",
+  "main": "index.js",
+  "scripts": {
+    "test": "budo example/basic.js"
+  },
+  "author": "Jake Burden",
+  "license": "MIT",
+  "dependencies": {
+    "nanoassert": "^1.1.0",
+    "streamdata.io-events": "^1.0.1"
+  },
+  "devDependencies": {
+    "budo": "^10.0.4",
+    "choo": "^6.5.1",
+    "choo-devtools": "^2.0.0",
+  }
+}
